@@ -6,23 +6,6 @@ Estagiário de desenvolvimento full stack na **Camed Saúde** (Fortaleza, CE), c
 
 ---
 
-### 🏢 Experiência
-
-**Camed Saúde** · Estagiário de Desenvolvimento Full Stack · Abr 2026 – atual
-
-- Manutenção de 3 sistemas em produção (.NET 4/4.5/8)
-- Novo sistema interno em .NET 10 + React/TypeScript, com pipelines de CI/CD no Azure DevOps
-- +30 endpoints REST (ASP.NET Core, MVC com Controllers, Services e Repositories) e +10 telas em React, API documentada com Swagger/Scalar
-- Correção de bugs em produção por debugging sistemático, incluindo instabilidade em integração com API externa crítica: tracei o fluxo função a função e achei a causa raiz (chegada inconsistente de dados)
-
-### 🚀 Projeto pessoal em produção: Aureo
-
-App de gestão financeira pessoal multiplataforma, feito sozinho do banco ao deploy: [**ver online**](https://aureo-front-end.vercel.app)
-
-- **[Back-end](https://github.com/pedroCifoni/AureoBackEnd)**: .NET 10, ASP.NET Core, Entity Framework, JWT, Docker
-- **[Front-end](https://github.com/pedroCifoni/AureoFrontEnd)**: React + TypeScript, SPA responsiva
-- Supabase (PostgreSQL) para persistência e gatilhos, com sincronização em tempo real entre dispositivos
-
 ### 🧰 Stack
 
 **Linguagens:** C# · TypeScript · JavaScript · SQL
@@ -32,10 +15,6 @@ App de gestão financeira pessoal multiplataforma, feito sozinho do banco ao dep
 
 ![Stack](https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,docker,azure,git)
 
-### 🧱 Outros projetos
-
-- **[SOSUnifor](https://github.com/pedroCifoni/SOSUnifor)**: central de reportes do campus (React, TypeScript, FastAPI, JWT)
-- **[Montezuma Solar](https://github.com/pedroCifoni/montezuma-solar)**: site institucional ([online](https://montezuma-solar.vercel.app))
 
 ### 📫 Contato
 
