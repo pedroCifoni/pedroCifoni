@@ -1,4 +1,4 @@
-# Pedro Cifoni
+# Pedro Cifoni Montezuma
 
 
 Estagiário de desenvolvimento full stack na **Camed Saúde** (Fortaleza, CE), com experiência em produção em **.NET (4/4.5/8/10), ASP.NET Core, React e TypeScript**. Sustento 3 sistemas legados em produção, dois deles usados por mais de 5 mil beneficiários e funcionários, e construí do zero um sistema novo com deploy via CI/CD no Azure DevOps. Entreguei mais de 30 endpoints REST e mais de 10 telas, incluindo o **Ressarcimento ao SUS**, que substituiu um sistema antigo e hoje é o oficial da operação (+500 registros/mês, 10 usuários internos). Cursando Análise e Desenvolvimento de Sistemas na UNIFOR.
