@@ -1,21 +1,41 @@
 # Pedro Cifoni Montezuma
 
+**Full Stack Developer · Building with AI · Fortaleza, Brazil**
 
-Estagiário de desenvolvimento full stack na **Camed Saúde** (Fortaleza, CE), com experiência em produção em **.NET (4/4.5/8/10), ASP.NET Core, React e TypeScript**. Sustento 3 sistemas legados em produção, dois deles usados por mais de 5 mil beneficiários e funcionários, e construí do zero um sistema novo com deploy via CI/CD no Azure DevOps. Entreguei mais de 30 endpoints REST e mais de 10 telas, incluindo o **Ressarcimento ao SUS**, que substituiu um sistema antigo e hoje é o oficial da operação (+500 registros/mês, 10 usuários internos). Cursando Análise e Desenvolvimento de Sistemas na UNIFOR.
+Full stack developer intern at Camed Saúde, shipping and maintaining production systems in healthcare. I use AI to build developer tools and to speed up how I design, review and ship software.
 
----
+## About
 
-### 🧰 Stack
+- Maintain **3 legacy systems in production**, two of them used by **5,000+ beneficiaries and employees**.
+- Built a new system from scratch with **CI/CD on Azure DevOps**.
+- Delivered **30+ REST endpoints** and **10+ screens**, including the **SUS reimbursement system** (Ressarcimento ao SUS), which replaced a legacy tool and is now the official system of the operation (500+ records/month, 10 internal users).
+- Work across .NET Framework 4.x and modern .NET (8/10), ASP.NET Core, Entity Framework, SQL Server and React.
+- Studying Systems Analysis and Development at UNIFOR.
 
-**Linguagens:** C# · TypeScript · JavaScript · SQL
-**Back-end:** .NET · ASP.NET Core · Entity Framework · SQL Server · PostgreSQL (Supabase) · JWT
-**Front-end:** React · Vite · Tailwind
-**DevOps e ferramentas:** Azure DevOps (Pipelines) · CI/CD · Git · Docker · Postman · Swagger/Scalar
+## Building with AI
 
-![Stack](https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,docker,azure,git)
+| Project | What it does | AI in it |
+|---|---|---|
+| [api-design-reviewer](https://github.com/pedroCifoni/api-design-reviewer) | Reviews REST API designs against RFCs and the OWASP API Top 10, with before/after fixes for any framework. | Claude Skills, prompt engineering |
 
+I also use Claude Code in my daily workflow for code review, refactoring legacy code and documentation.
 
-### 📫 Contato
+## Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cifoni-montezuma/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pedro.montezumatech@gmail.com)
+| Project | Stack |
+|---|---|
+| [Aureo](https://github.com/pedroCifoni/AureoBackEnd): personal finance platform ([frontend](https://github.com/pedroCifoni/AureoFrontEnd)) | .NET 10, layered architecture, PostgreSQL, JWT, Docker · React 19, TypeScript, Tailwind 4 |
+| [montezuma-solar](https://github.com/pedroCifoni/montezuma-solar): solar energy company website, **live in production** | React, Vite |
+| [SOSUnifor](https://github.com/pedroCifoni/SOSUnifor): campus incident reporting with user and admin views | React, TypeScript, Tailwind, JWT |
+
+## Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vite,tailwind,postgres,docker,azure,git,postman)](https://skillicons.dev)
+
+**AI:** Claude Code · Claude Skills · Prompt engineering
+
+**Also:** SQL Server · Entity Framework · Azure DevOps Pipelines · Swagger/Scalar
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/pedro-cifoni-montezuma/) · [Email](mailto:pedro.montezumatech@gmail.com)
