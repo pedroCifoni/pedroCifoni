@@ -25,7 +25,6 @@ I also use Claude Code in my daily workflow for code review, refactoring legacy 
 | Project | Stack |
 |---|---|
 | [Aureo](https://github.com/pedroCifoni/AureoBackEnd): personal finance platform ([frontend](https://github.com/pedroCifoni/AureoFrontEnd)) | .NET 10, layered architecture, PostgreSQL, JWT, Docker · React 19, TypeScript, Tailwind 4 |
-| [montezuma-solar](https://github.com/pedroCifoni/montezuma-solar): solar energy company website, **live in production** | React, Vite |
 | [SOSUnifor](https://github.com/pedroCifoni/SOSUnifor): campus incident reporting with user and admin views | React, TypeScript, Tailwind, JWT |
 
 ## Tech Stack
