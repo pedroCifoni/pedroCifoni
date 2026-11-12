@@ -29,7 +29,7 @@ I also use Claude Code in my daily workflow for code review, refactoring legacy 
 
 ## Tech Stack
 
-[![Stack](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vite,tailwind,postgres,docker,azure,git,postman)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,tailwind,postgres,docker,azure,git,postman)](https://skillicons.dev)
 
 **AI:** Claude Code · Claude Skills · Prompt engineering
 
