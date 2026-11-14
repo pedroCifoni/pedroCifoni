@@ -8,7 +8,7 @@ Full stack developer intern at Camed Saúde, shipping and maintaining production
 
 - Maintain **3 legacy systems in production**, two of them used by **5,000+ beneficiaries and employees**.
 - Built a new system from scratch with **CI/CD on Azure DevOps**.
-- Delivered **30+ REST endpoints** and **10+ screens**, including the **SUS reimbursement system** (Ressarcimento ao SUS), which replaced a legacy tool and is now the official system of the operation (500+ records/month, 10 internal users).
+- Delivered **50+ REST endpoints** and **70+ screens**, including the **SUS reimbursement system** (Ressarcimento ao SUS), which replaced a legacy tool and is now the official system of the operation (500+ records/month, 10 internal users).
 - Work across .NET Framework 4.x and modern .NET (8/10), ASP.NET Core, Entity Framework, SQL Server and React.
 - Studying Systems Analysis and Development at UNIFOR.
 
