@@ -31,7 +31,7 @@ I also use Claude Code in my daily workflow for code review, refactoring legacy 
 
 [![Stack](https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,tailwind,postgres,docker,azure,git,postman)](https://skillicons.dev)
 
-**AI:** Claude Code · Claude Skills · Prompt engineering
+**AI:** Claude Code · Claude Skills
 
 **Also:** SQL Server · Entity Framework · Azure DevOps Pipelines · Swagger/Scalar
 
